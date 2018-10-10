@@ -15,6 +15,12 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
+/**
+ * className: HelloControllerTest
+ * classDescription: test controller JUnit test class
+ * @author tom
+ * @date 2018-10-10
+ */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes = ApplicationMain.class)
 public class HelloControllerTest {
