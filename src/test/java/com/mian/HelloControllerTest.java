@@ -1,8 +1,7 @@
 package com.mian;
 
-import com.main.ApplicationMain;
-import com.main.HelloController;
-import javafx.application.Application;
+import com.ApplicationMain;
+import com.controller.HelloController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
